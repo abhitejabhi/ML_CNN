@@ -1,1 +1,1 @@
-# ML_CNN
+# AI_ML_PROJECTS
